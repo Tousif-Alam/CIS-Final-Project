@@ -39,5 +39,5 @@ A clean GUI to make the tool more user friendly.
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-Next, we'll learn about SQLite and create our first script to store ingredients in a database. I will research how to create tables and access data, while Arafat will decide how to organize our information.
+Learning about SQLite and how to create our first script to store ingredients in a database. I will research how to create tables and access data, while Ryan will decide how to organize our information. Arafat will help testing the script to ensure everything is correct.  
 
